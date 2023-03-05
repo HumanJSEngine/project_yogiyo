@@ -30,7 +30,6 @@ React 활용 및 데이터 연동
 
 ## 프로젝트 시연 영상
 
-<img src="https://user-images.githubusercontent.com/103413040/222675624-1f5126bf-04ed-423b-944d-294327ffab73.gif" width="300" height="600"/>
 
 ## 프로젝트 팀원 구성
 

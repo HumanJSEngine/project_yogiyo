@@ -17,6 +17,13 @@ React 활용 및 데이터 연동
 
 [notion](http://https://www.notion.so/) 을 통한 일정 관리
 
+## 기술스택
+#### Frontend
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,redux,styledcomponents,vite,git,vscode)](https://skillicons.dev)
+
+#### Backend
+[![My Skills](https://skillicons.dev/icons?i=java,mysql)](https://skillicons.dev)
+
 ## 프로젝트 ui
 
 [figma](https://www.figma.com/file/ngxLVu7y49I5KVfhBi25KN/1%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=0%3A1&t=D1OjMPAGdNUCkFYD-1) 로 페이지 레이아웃 작업

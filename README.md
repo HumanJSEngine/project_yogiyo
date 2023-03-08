@@ -30,6 +30,7 @@ React 활용 및 데이터 연동
 
 ## 프로젝트 시연 영상
 
+https://youtu.be/l4c_RrM14EM
 
 ## 프로젝트 팀원 구성
 
